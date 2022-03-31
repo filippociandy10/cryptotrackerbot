@@ -6,5 +6,7 @@ indicate buy or sell at the current time. Buy and sell is executed through the B
 
 Progress:
 Screenshot image from youtube livestream every interval - Done
+
 Processing screenshotted image - Done
+
 Calling Binance API for buy and sell positions - In progress (Waiting for verification of Binance account)
